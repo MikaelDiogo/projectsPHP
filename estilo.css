@@ -1,0 +1,36 @@
+body {
+  
+  
+    
+    background-image: url(http://s2.glbimg.com/nn71ZipVGuMmtbTb7iY35nyIuGM=/620x300/smart/e.glbimg.com/og/ed/f/original/2014/09/08/volta-ao-mundo-shutterstock.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+
+
+
+    width: 100vw;
+    height: 100vh;
+    
+}
+#cnt{
+    flex-direction: column;
+    justify-content: center;
+    text-align: center ;
+    align-items: center;
+    color:aliceblue;
+    margin-top: 15%;
+    height: 100vh;
+    font-size: 40px;
+}
+
+.cnt2{
+    font-size: 60px;
+
+}
+
+.bcgb{
+    background: white;
+}
