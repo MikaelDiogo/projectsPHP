@@ -1,0 +1,167 @@
+body {
+    
+    background: url(https://images.pexels.com/photos/3693623/pexels-photo-3693623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    
+    
+    
+   
+}
+#cnt{
+    flex-direction:column;
+    line-height: center;
+    justify-content: center;
+    text-align: center ;
+    align-items: center;
+    
+    color:aliceblue;
+    font-size: 40px;
+   
+    
+}
+
+.cnt2{
+    font-size: 60px;
+
+}
+
+.bcgb{
+    background: white;
+}
+
+.cnt{
+    text-align: center;
+    
+}
+
+
+.quadrado{
+    display: block;
+    margin:auto;
+    margin:15px;
+    position: relative;
+    text-align: center;
+    flex-direction: row;
+	display: inline-block;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 30.5%;
+    position: relative;
+  
+  /*   display: -ms-flexbox; */
+   
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+
+}
+.quadrado{
+    overflow: hidden;
+}
+img{
+    border-radius: 60px;
+   
+}
+
+.img-container{  
+    overflow: hidden;
+    border-radius: 60px;
+   
+ }
+ 
+ .img-container img{
+    border-radius: 60px;
+    width: 320px;
+    height: 500px;
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: transform .5s ease;
+   
+ }
+ 
+ .img-container:hover img{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.2);
+    border-radius: 60px;
+ }
+
+.textd{
+        background-color: rgb(255, 255, 255);
+        padding: 2rem;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        max-height: 100%;
+        transform: translateY(101%);
+        transition: transform 0.3s ease-in;
+    }
+.img-container:hover .textd{
+    transform: translateY(0);
+    
+}
+#sobren{
+    background: #040449;
+    color: #fff;
+    
+    width: 100%;
+    height:470px;
+    
+
+        }
+.partebranca{
+    background: #fff;
+    width: 100%;
+    height: 15px;
+}
+.navbarr {
+    color:#fff;
+    text-align: center;
+    justify-content: left;
+     margin: 10px;
+     font-size: small;
+     text-decoration: none;
+}
+
+
+.nfideia{
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    display: inline-flex;
+    height: 60px;
+    width: 240px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: inline-flex;
+    font-family: "Poppins", Sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+    text-transform: uppercase;
+    fill: white;
+    color:white;
+    background-color:rgb(5, 5, 63);
+    border-radius: 7px;
+    
+    
+}
+
+
+
+.nomeds{
+    color: #fff;
+    font-family: cursive;
+}
+.navbar-brand{
+color: #fff;
+}
