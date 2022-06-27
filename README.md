@@ -11,11 +11,12 @@ Um projeto desenvolvido em uma disciplina do Curso Técnico em Informática na E
   <p> • É necessário também a instalação do Xampp, quando abrir, clique em START no ícone do Apache e MySQL.
   <p> • Após isso, entre no navegador e coloque na pesquisa de URL: localhost/php/ReservaViagem/home.php</p>
   
-  ## Autores
-
   
-
-| [<img src="https://avatars.githubusercontent.com/u/105250635?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/lettxys) |  [<img src="" width=115><br><sub>Mikael Diogo</sub>](https://github.com/MikaelDiogo) |  [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>Manuela Aurélio</sub>](https://github.com/mavaur) |   [<img src="https://avatars.githubusercontent.com/u/102155572?v=4" width=115><br><sub>Vitória Almeida</sub>](https://github.com/vitoriaalmd) |
+  <h1 aling="center"> Autores</h1>
+  
+  
+  
+| [<img src="https://avatars.githubusercontent.com/u/105250635?v=4" width=115><br><sub>Letícia Lima</sub>](https://github.com/lettxys) |  [<img src="https://avatars.githubusercontent.com/u/102759939?v=4" width=115><br><sub>Mikael Diogo</sub>](https://github.com/MikaelDiogo) |  [<img src="https://avatars.githubusercontent.com/u/108244185?v=4 " width=115><br><sub>Manuela Aurélio</sub>](https://github.com/mavaur) |   [<img src="https://avatars.githubusercontent.com/u/102155572?v=4" width=115><br><sub>Vitória Almeida</sub>](https://github.com/vitoriaalmd) |
 | :---: | :---: | :---: | :---: |
 
     
